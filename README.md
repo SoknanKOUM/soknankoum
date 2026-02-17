@@ -7,7 +7,7 @@ Passionate about turning data into useful insights and intelligent applications.
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center"> Contact Me</h2>
 
 <p align="center">
 <a href="mailto:koumsoknan096@gmail.com">
